@@ -1,17 +1,12 @@
 
-# Trabalho Final - Academia Neon Devops
+# ansible
+Exercicios praticados em aula - Academia Neon DevOps
 
-## Instruções
-1.  Façam um fork deste repositório
-2.  Criem uma branch com o nome do grupo de vcs, ex: grupo-topzera
-3.  Inicializem um projeto ansible nos mesmos moldes que vimos em aula:-            
- \- ansible.cfg
- \- /inventory
- \- /playbooks
-4.  Comitem!!!
- 
-## Dependências
-* [Ansible](https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html) 
+Dependências
+- [docker & docker-compose](https://www.digitalocean.com/community/tutorials/como-instalar-e-usar-o-docker-no-ubuntu-18-04-pt) 
+- [Ansible](https://www.digitalocean.com/community/tutorials/como-instalar-e-configurar-o-ansible-no-ubuntu-18-04-pt%5D%28https://www.digitalocean.com/community/tutorials/como-instalar-e-configurar-o-ansible-no-ubuntu-18-04-pt)
 
-### Para executar
 
+# Para subir as máquinas (Docker)
+- Ir no diretório onde esta o docker-compose.yml (ex $ cd /path/my/project/)
+- Rodar $ docker-compose up 
